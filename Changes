@@ -31,4 +31,7 @@ The function was called for all user inputs.
 August 26 2025.
 ConvertWeightsSpeedsA.c was changed to functions called by in the else statement.
 April 28 2026.
+ConvertWeightsSpeedstruct.c was added. It uses a struct to make a simple map.
+This one will get any new features going forward.
+May 30 2026.
 
