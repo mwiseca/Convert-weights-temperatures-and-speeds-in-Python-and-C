@@ -1,6 +1,6 @@
 /*MIT License
 
-  Copyright (c) 2021-2025 Mitchell E Wise
+  Copyright (c) 2021-2026 Mitchell E Wise
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
@@ -620,7 +620,7 @@ void lightYearsToMilesBasic() {
 void license() {
     printf("\n MIT License\n\n");
 
-    printf(" Copyright (c) 2021-2025 Mitchell E Wise\n\n");
+    printf(" Copyright (c) 2021-2026 Mitchell E Wise\n\n");
 
     printf(" Permission is hereby granted, free of charge, to any person obtaining a copy\n");
     printf(" of this software and associated documentation files (the \"Software\"), to deal\n");
