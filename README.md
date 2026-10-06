@@ -1,5 +1,5 @@
-# Convert weights temperatures and speeds in Python and C.
-Converts weights temperatures and speeds and distance.
+# Unit converter in C and Python.
+Converts weights temperatures and speeds and distance and more.
 This is a simple program that runs in the terminal.
 The Python programs should run on any computer with python installed.
 This program should not be used for critical conversions.
